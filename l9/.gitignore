@@ -1,0 +1,7 @@
+.local
+.ipython
+.ipynb_checkpoints
+.cache
+.jupyter
+mnist-data
+not-mnist

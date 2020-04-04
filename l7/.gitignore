@@ -1,0 +1,6 @@
+.local
+.ipython
+.ipynb_checkpoints
+.cache
+.jupyter
+tmp.py

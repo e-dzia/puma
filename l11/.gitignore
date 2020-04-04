@@ -1,0 +1,11 @@
+.local
+.ipython
+.ipynb_checkpoints
+.cache
+.jupyter
+*Kopia*
+*.zip
+2autorow
+2mini
+5_autorow_skrot
+
